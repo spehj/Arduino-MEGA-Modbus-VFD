@@ -9,3 +9,4 @@ We've used a Machtric VFD and decided to control it over the Modubus, since it o
 Photo of the (almost) finished project:
 <img src="https://user-images.githubusercontent.com/62114221/156895975-abb6fa46-fa77-4470-961c-433a92c36fb7.jpg" width="50%">
 
+NOTE: This code is just a Modbus example and not a wheat blower project code.
